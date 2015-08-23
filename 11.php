@@ -8,5 +8,5 @@
 header("content-type:text/html;charset=utf8");
 echo $_GET["user"];
 echo $_GET["password"];
-
+echo "asdafsf";
 ?>
